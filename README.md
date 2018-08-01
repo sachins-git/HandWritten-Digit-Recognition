@@ -22,3 +22,8 @@ In this internship, I have made a neural network that will read and recognise th
 3.	Once the execution begins, the program loads the MNIST data which includes both training and testing data. It prepares the                 classifier and also plots a confusion matrix.
 4.	Apart from the confusion matrix it also tells us about predicted labels for test images and accuracy of classifier on test images.
 5.	In the end, it shows the Test Images with Original and Predicted Labels.
+
+
+### Sample output of the above algorithm
+![test data confusion matrix](https://user-images.githubusercontent.com/32461371/43508324-3a82c5de-958d-11e8-9363-100a4f7dc3a0.png)
+
