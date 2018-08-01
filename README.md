@@ -17,9 +17,10 @@ In this internship, I have made a neural network that will read and recognise th
   5.	The advantage of SVM is that once a boundary is established, most of the training data is redundant. All it needs is a core set of         points which can help identify and set the boundary.
 
 # *Implementation
-1.	Unzip the folder. The four MNIST data file are already downloaded and stored into a folder named HandWritten-digit-recognition. 
-2.	Navigate to: Handwritten-Digit-Recognition\\ SVM and run the following python command >>python svm.py
-3.	Once the execution begins, the program loads the MNIST data which includes both training and testing data. It prepares the                 classifier and also plots a confusion matrix.
+1.	Unzip the folder. The four MNIST data file must be downloaded in the folder SVM/MNIST_Dataset_Loader/dataset/.
+   The link for downloading the MNIST data is in dataset folder.
+2.	Navigate to: Handwritten-Digit-Recognition/SVM/ and run the following python command >>python svm.py
+3.	Once the execution begins, the program loads the MNIST data which includes both training and testing data. It prepares the                 classifier and also plots a confusion matrix, the training time can be slow, please be patient.
 4.	Apart from the confusion matrix it also tells us about predicted labels for test images and accuracy of classifier on test images.
 5.	In the end, it shows the Test Images with Original and Predicted Labels.
 
@@ -31,4 +32,4 @@ In this internship, I have made a neural network that will read and recognise th
 
 ![figure_1](https://user-images.githubusercontent.com/32461371/43508613-0dbfc4ec-958e-11e8-94a2-9f23b6b3147d.png)
 
-![figure_1-1](https://user-images.githubusercontent.com/32461371/43508642-1d838e2c-958e-11e8-90f1-5d79fae2f829.png
+![figure_1-1](https://user-images.githubusercontent.com/32461371/43508642-1d838e2c-958e-11e8-90f1-5d79fae2f829.png)
