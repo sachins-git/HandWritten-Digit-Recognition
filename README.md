@@ -33,3 +33,7 @@ In this internship, I have made a neural network that will read and recognise th
 ![figure_1](https://user-images.githubusercontent.com/32461371/43508613-0dbfc4ec-958e-11e8-94a2-9f23b6b3147d.png)
 
 ![figure_1-1](https://user-images.githubusercontent.com/32461371/43508642-1d838e2c-958e-11e8-90f1-5d79fae2f829.png)
+
+![capture](https://user-images.githubusercontent.com/32461371/43509553-9a0c3f32-9590-11e8-864e-6df4684e235c.PNG)
+
+![capture1](https://user-images.githubusercontent.com/32461371/43509565-a4409bc4-9590-11e8-99f1-1983a7f42709.PNG)
